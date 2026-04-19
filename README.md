@@ -1,1 +1,2 @@
 # Baby-names-array
+This project is a JavaScript baby names search tool that uses a dataset of Alberta baby names. Users can display all names, search by starting letter, search for names with an exact length, or find names within a range of lengths. The program loops through the dataset, filters names based on user input, and displays matching results along with the total count. It uses arrays, loops, conditionals, prompts, and DOM manipulation to create an interactive search experience.
